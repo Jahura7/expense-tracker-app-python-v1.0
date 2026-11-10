@@ -145,8 +145,12 @@ Test scenarios include:
 - Implement budget management.
 - Develop a web-based application using Django.
 - Add interactive dashboards and visualizations.
+- 
+## 13. Conclusion
 
-## 13. Author
+The Expense Tracker App successfully records monthly expenses and generates a category-wise spending report using Python. Through this project, I practiced working with lists and dictionaries, loops, conditional statements, functions, and data aggregation. I also learned how to calculate total expenses, identify the highest spending category, and generate percentage-based reports. This project strengthened my understanding of Python fundamentals and modular programming.
+
+## 14. Author
 
 **Jahura Begum**
 
