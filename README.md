@@ -37,7 +37,7 @@ The Expense Tracker helps individuals understand their monthly spending habits b
 ```text
 Expense-Tracker-App/
 │
-├── Expense_Tracker_App_V1_0.ipynb
+├── Expense_Tracker_App_V1.0.ipynb
 └── README.md
 ```
 
