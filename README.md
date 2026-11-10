@@ -30,6 +30,7 @@ The Expense Tracker helps individuals understand their monthly spending habits b
 - **Percentage Calculation:** Calculates each category's share of total expenditure.
 - **Monthly Report:** Displays a formatted summary of monthly expenses.
 - **Empty Input Handling:** Displays "No expenses entered." when no expenses are recorded.
+<img width="345" height="61" alt="image" src="https://github.com/user-attachments/assets/9b9f5560-e822-4663-9d13-5124ddf05ba5" />
 
 ## 5. Repository Structure
 
